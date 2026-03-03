@@ -24,7 +24,7 @@ public class task3 {
 
         Employee e1 = new Employee();
 
-        e1.empId = 101;
+        e1.empId = 69;
         e1.basicSalary = 150000;
 
         e1.calculateSalary(10);  // 10% Bonus
